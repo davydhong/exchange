@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+## CORS
+please navigate to https://cors-anywhere.herokuapp.com and enable it before moving on.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
